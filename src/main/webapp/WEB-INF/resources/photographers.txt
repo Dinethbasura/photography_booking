@@ -1,0 +1,3 @@
+name,specialization,contactInfo
+John Doe,Wedding Photography,john.doe@example.com
+Alice Smith,Portrait Photography,alice.smith@example.com

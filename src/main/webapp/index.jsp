@@ -38,7 +38,12 @@
                   class="icon"
           ></box-icon>
         </button>
-        <button id="nav-action-3"><span>Login</span></button>
+        <!-- Updated Login Button with Link -->
+        <button id="nav-action-3">
+          <a href="login.jsp" style="text-decoration: none; color: inherit;">
+            <span>Login</span>
+          </a>
+        </button>
       </div>
     </div>
   </div>

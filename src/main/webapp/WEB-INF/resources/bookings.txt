@@ -1,0 +1,3 @@
+eventDetails,photographer,user,status
+Wedding Photography,John Doe,user1,Pending
+Engagement Shoot,Alice Smith,user2,Confirmed

@@ -1,0 +1,3 @@
+photographer,user,comment,rating
+John Doe,user1,Great photographer,5
+Alice Smith,user2,Excellent service,4

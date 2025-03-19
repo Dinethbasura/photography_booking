@@ -1,0 +1,4 @@
+username,password,email,role
+john123,pass123,john@example.com,user
+photoguy,photo456,photo@example.com,photographer
+admin1,adminpass,admin@example.com,admin
